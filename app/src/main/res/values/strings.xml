@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">أذكار</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">إعدادات</string>
+    <string name="random">ذكر عشوائي</string>
+    <string name="title_activity_settings">إعدادات</string>
+
+    <string name="enable_daily_notification">تشغيل الإشعارات</string>
+
+    <string name="BANERID">ca-app-pub-6786585078622584/1967265511</string>
+</resources>
